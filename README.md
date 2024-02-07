@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--a href="https://bytebook.co"><img src="https://img.shields.io/badge/-bytebook.co-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a-->
-<a href="https://www.linkedin.com/in/pramit-choudhury-454908288/"><img src="https://img.shields.io/badge/-Pramit%20choudhury-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sameer-singh-008862176/"><img src="https://img.shields.io/badge/-Sameer%Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pramitchoudhury0205@gmail.com"><img src="https://img.shields.io/badge/-pramitchoudhury0205@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
