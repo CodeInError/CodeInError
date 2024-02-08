@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular);
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic);
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white);
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -34,7 +37,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
-![AppScript](https://img.shields.io/badge/-AppScript-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
