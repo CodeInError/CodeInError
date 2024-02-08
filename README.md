@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 <!--a href="https://bytebook.co"><img src="https://img.shields.io/badge/-bytebook.co-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a-->
 <a href="mailto:sameeraarav8@gmail.com"><img src="https://img.shields.io/badge/-sameeraarav8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sameer-singh-008862176"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
-
+<a href="https://github.com/CodeInError"><img src="https://img.shields.io/badge/-CodeInError-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
