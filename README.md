@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently working as a Software Engineer at <strong style="color: red;">compsulting</strong>.
+🎓 &nbsp;I'm currently working as a Software Engineer at <strong style="color: red;">Blue Dart</strong>.
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Decentralized Internet, Distributed Systems, Blockchain.\
 💬 &nbsp;Feel free to reach out to me for any tech related stuff, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at sameeraarav8@gmail.com! I'll try to respond as soon as I can.
