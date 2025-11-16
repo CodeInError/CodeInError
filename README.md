@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular);
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic);
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white);
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
